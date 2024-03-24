@@ -24,3 +24,17 @@ This project is more than just code; it's a snapshot of my journey, encapsulatin
 I hope that by sharing this, it not only serves as a piece of my history but also inspires others at the beginning of their tech journey. Remember, every expert was once a beginner, and every sophisticated project once started from simple beginnings.
 
 _Thank you for visiting and exploring this repository._
+
+## How to Run This Project
+
+If you're interested in running this project locally, here are the steps:
+
+1. Clone the repository:
+```cmd
+git clone https://github.com/RAVIGANESHMBHAT/Initial-Tech-Journey-Portfolio
+```
+
+3. Open the `index.html` file in your web browser:
+- You can do this by navigating to the project folder where you've cloned the repository, finding the `index.html` file, and opening it with your preferred web browser.
+
+Enjoy exploring the project!
